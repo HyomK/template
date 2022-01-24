@@ -1,7 +1,7 @@
 
 ## Branch Rules
 
-### master
+### main
 
 - 제품으로 출시될 수 있는 브랜치
 
